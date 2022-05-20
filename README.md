@@ -1,5 +1,11 @@
 ![Visitor Count](https://profile-counter.glitch.me/proAnurag/count.svg)
 
+## Spotify Playing 🎧
+
+<br>
+
+[<img src="https://github-spotify-ui-5mpf7hrlt.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/	3173sdjrydnilqbsf2yvggacpqpi)
+
 
 # Hi! Anurag Here👋
 
