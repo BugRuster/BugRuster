@@ -1,12 +1,5 @@
 ![Visitor Count](https://profile-counter.glitch.me/proAnurag/count.svg)
 
-## Spotify Playing 🎧
-
-<br>
-
-[<img src="https://github-spotify-ui-5mpf7hrlt.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/3173sdjrydnilqbsf2yvggacpqpi)
-
-
 # Hi! Anurag Here👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Anurag-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anurag-sharma-6b1a7b226/)](https://www.linkedin.com/in/anurag-sharma-6b1a7b226/)  [![Website Badge](https://img.shields.io/badge/-proAnurag-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://probhavesh.vercel.app/)](https://bhavesh.pro/)
