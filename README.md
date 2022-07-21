@@ -42,6 +42,10 @@
     <img alt="HTML" src="https://img.shields.io/badge/html-ED8B00?style=for-the-badge&logo=html5&logoColor=white"/>
   </a>
    &emsp;
+  <a href="/">
+    <img alt="DART" src="https://img.shields.io/badge/dart-ED8B00?style=for-the-badge&logo=DART&logoColor=white"/>
+  </a>
+   &emsp;
 
 </p>
 
