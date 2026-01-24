@@ -1,5 +1,5 @@
 <!-- Animated Header Banner -->
-![Banner](https://github.com/Saviru/Animated-Profile-Banner-Generator/blob/main/examples/terminal-glitch.gif)
+![Banner]([github-readme-stats.vercel.app](https://capsule-render.vercel.app/api?type=shark&height=300&color=gradient&text=Anurag%20Sharma&textBg=false&section=header&reversal=false))
 
 ---
 
@@ -23,7 +23,6 @@ Driven by challenges, productivity, and clean design.
 <!-- GitHub overall stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bugruster&show_icons=true&count_private=true&theme=radical" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bugruster&theme=radical" width="45%" />
 </p>
 
 ---
