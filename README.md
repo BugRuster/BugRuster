@@ -1,5 +1,5 @@
 <!-- Animated Header Banner -->
-![Banner]([github-readme-stats.vercel.app](https://capsule-render.vercel.app/api?type=shark&height=300&color=gradient&text=Anurag%20Sharma&textBg=false&section=header&reversal=false))
+<img src = "https://capsule-render.vercel.app/api?type=shark&height=300&color=gradient&text=Anurag%20Sharma&textBg=false&section=header&reversal=false" />
 
 ---
 
@@ -17,10 +17,6 @@ Working with technologies like **Flutter, React, Kotlin, Swift, Node.js, Next.js
 Driven by challenges, productivity, and clean design.
 
 ---
-
-## ✨ Dynamic Profile Stats
-
-<!-- GitHub overall stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bugruster&show_icons=true&count_private=true&theme=radical" width="45%" />
 </p>
